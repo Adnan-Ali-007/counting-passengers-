@@ -1,0 +1,23 @@
+*{
+  text-align: center;
+}
+button{
+width:200px;
+font-weight: bold;
+margin-bottom: 10px;
+border-radius: 10px;
+
+}
+#increment-btn{
+    background: darkred;
+}
+h2{
+    font-size: 100px;
+    color: dimgray;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+#save-btn{
+    background-color: green;
+}
