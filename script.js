@@ -8,8 +8,7 @@ countEl.innerText=count
 console.log(count)
 
 }
-let tree="you have tree new notifications"
-console.log(tree)
+
 
 function save()
 {
